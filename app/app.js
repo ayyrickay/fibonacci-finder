@@ -7,7 +7,7 @@ module.exports = {
     }
     for (var i = 0; i < n + 1; i++) {
       if (i < 2) {
-        fibonacciSequence.push(1)
+        fibonacciSequence.push(i)
       } else {
         const lastNumber = fibonacciSequence[i - 1]
         const penultimateNumber = fibonacciSequence[i - 2]
