@@ -7,7 +7,6 @@
   "dependencies": {},
   "devDependencies": {
     "tape": "^4.6.3",
-    "tape-junit": "^0.4.0"
   },
   "scripts": {
     "test": "node app/tests.js"
