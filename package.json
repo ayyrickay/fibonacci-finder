@@ -6,7 +6,7 @@
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {
-    "tape": "^4.6.3",
+    "tape": "^4.6.3"
   },
   "scripts": {
     "test": "node app/tests.js"
