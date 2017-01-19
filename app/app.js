@@ -1,5 +1,6 @@
 module.exports = {
   calculateFibonacci: function (n, sequence) {
+    'use strict'
     let fibonacciSequence = sequence || []
     if (n < 0) {
       return false
