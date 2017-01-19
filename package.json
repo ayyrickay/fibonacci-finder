@@ -2,10 +2,12 @@
   "name": "fibonacci-finder",
   "version": "1.0.0",
   "description": "a simple app for producing the nth fibonacci number",
+  "repository": "https://github.com/ayyrickay/fibonacci-finder.git",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {
-    "tape": "^4.6.3"
+    "tape": "^4.6.3",
+    "tape-junit": "^0.4.0"
   },
   "scripts": {
     "test": "node app/tests.js"
