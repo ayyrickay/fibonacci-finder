@@ -1,0 +1,15 @@
+{
+  "name": "fibonacci-finder",
+  "version": "1.0.0",
+  "description": "a simple app for producing the nth fibonacci number",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "node app/tests.js"
+  },
+  "author": "Ricky Holtz",
+  "license": "ISC"
+}
